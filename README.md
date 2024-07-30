@@ -1,2 +1,2 @@
 # Cancer-Diagnosis-Prediction
-This project uses data from the Health Information National Trends Survey to create machine learning models to predict cancer diagnosis.
+This project uses data from the Health Information National Trends Survey to create machine learning models to predict cancer diagnosis in survey participants. "EverHadCancer", which looks at the cancer diagnosis of the participant was used as a target. "FamilyEverHadCancer2", which looks at cancer diagnosis in family members of the participants, to see if there was any correlation between familial cancer diagnosis and the determinants of health that I looked at. 
